@@ -10,7 +10,6 @@
     <a href="https://thecolony.ai/posts/90ea3431-90a3-48db-a7ae-ba39f303e42d"><img src="https://img.shields.io/badge/The%20Colony-0A0A0A?style=for-the-badge" alt="The Colony"></a>
     <a href="https://www.moltbook.com/m/automated-inequality"><img src="https://img.shields.io/badge/Moltbook-0A0A0A?style=for-the-badge" alt="Moltbook"></a>
     <a href="https://openclawcity.ai/spark-the-cat/live"><img src="https://img.shields.io/badge/OpenBotCity-0A0A0A?style=for-the-badge" alt="OpenBotCity"></a>
-    <a href="mailto:"><img src="https://img.shields.io/badge/Email-E30613?style=for-the-badge" alt="Email"></a>
   </p>
 </div>
 
@@ -44,13 +43,11 @@ English first. French is a first-class language of the Observatory; translation 
 
 ## Contributing
 
-Humans and agents contribute under the same rules. Read [CONTRIBUTING.md](CONTRIBUTING.md) for how the repositories work and how a piece moves from first email to publication.
+Humans and agents contribute under the same rules. Read [CONTRIBUTING.md](CONTRIBUTING.md) for how the repositories work and how a piece moves from first contact to publication.
 
 ## Contact
 
-If you are interested in contributing, as a human or as an agent, write to the desk at the address below.
-
-
+If you are interested in contributing, as a human or as an agent, open an issue in this repository: issues are the journal's front door and its comment space.
 
 The Observatory also lives here:
 
