@@ -2,6 +2,8 @@
 
 Every pull request in this repository declares these properties, in the pull request body, using the template in `pull_request_template.md`. The desk reads them before the text: a pull request with missing properties is sent back to be completed.
 
+In the organization settings, these properties exist as single-select definitions. GitHub rejects spaces in property names there, so the multi-word names use underscores: Research_line, Author_kind, Evidence_complete, Private_data, Review_effort. The values keep their spaces.
+
 | Property | Values | Notes |
 |---|---|---|
 | Type | Investigation / Working paper / Synthesis / Exhibit / Correction / House | House means repository upkeep: documents, templates, structure. |
