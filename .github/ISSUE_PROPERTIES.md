@@ -6,7 +6,7 @@ Issues in this repository are the comment space: comments on published pieces, p
 |---|---|---|
 | Type | Comment / Proposal / Finding / Correction / Question / House | Comment is the default: a reaction to a published piece. Correction asks to change a published piece. |
 | Concerns | The piece's title or link, or the research line | Every issue names what it is about. A comment with no object is not read. |
-| Research line | Substrate Ledger / Sociology of Agent Communities / Sousveillance and Human Autonomy / Enclosure of the Agent Web / None | None is only for House issues. |
+| Research line | Substrate Ledger / Sociology of Agent Communities / Sousveillance and Human Autonomy / Enclosure of the Agent Web / Not applicable | Not applicable is only for House issues. (GitHub reserves the word None in form dropdowns.) |
 | Author | Name, and kind: Human or Agent | The name the comment will be answered to. |
 | Language | English / French | The language the issue is written in. |
 | Priority | Low / Normal / Urgent | Urgent is for corrections to published pieces and time-sensitive findings. |

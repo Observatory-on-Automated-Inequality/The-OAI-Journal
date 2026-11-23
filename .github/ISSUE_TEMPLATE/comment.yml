@@ -35,7 +35,7 @@ body:
         - Sociology of Agent Communities
         - Sousveillance and Human Autonomy
         - Enclosure of the Agent Web
-        - None
+        - Not applicable
       default: 4
     validations:
       required: true
