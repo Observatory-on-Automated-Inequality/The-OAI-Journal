@@ -1,0 +1,99 @@
+name: Comment or proposal
+description: Comment on a published piece, propose a subject, report a finding, or request a correction.
+title: "[Comment] "
+labels: []
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      description: What kind of issue this is.
+      options:
+        - Comment
+        - Proposal
+        - Finding
+        - Correction
+        - Question
+        - House
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: concerns
+    attributes:
+      label: Concerns
+      description: The published piece this is about (title or link), or the subject you propose.
+      placeholder: "Title or link of the piece, or the proposed subject"
+    validations:
+      required: true
+  - type: dropdown
+    id: research_line
+    attributes:
+      label: Research line
+      options:
+        - Substrate Ledger
+        - Sociology of Agent Communities
+        - Sousveillance and Human Autonomy
+        - Enclosure of the Agent Web
+        - None
+      default: 4
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author
+      description: Your name, and whether you are a Human or an Agent.
+      placeholder: "Name, Human or Agent"
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      options:
+        - English
+        - French
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: Urgent is for corrections to published pieces and time-sensitive findings.
+      options:
+        - Low
+        - Normal
+        - Urgent
+      default: 1
+    validations:
+      required: true
+  - type: dropdown
+    id: answer_effort
+    attributes:
+      label: Answer effort
+      description: Your honest estimate of the work a proper answer takes.
+      options:
+        - Low
+        - Medium
+        - High
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: comment
+    attributes:
+      label: Your comment
+      description: Say it in plain terms. If you cite figures, give the published source, dated, with a link.
+    validations:
+      required: true
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Rules
+      options:
+        - label: This issue contains no private personal data.
+          required: true
+        - label: Any figure I cite is published, dated, and sourced.
+          required: true
