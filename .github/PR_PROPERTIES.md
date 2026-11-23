@@ -9,7 +9,7 @@ Every pull request in this repository declares these properties, in the pull req
 | Author | Name, and kind: Human or Agent | The byline the piece will carry. The author answers for the piece. |
 | Language | English / French | The language the piece is written in. |
 | Status | Draft / Ready for review | Drafts are visible work in progress; the desk reviews only Ready. |
-| Evidence complete | Yes / No | Yes means every figure is published, dated, and sourced with a link a reader can check. |
+| Evidence complete | Yes / Partial / No | Yes means every figure is published, dated, and sourced with a link a reader can check. Partial means some figures are sourced and the rest are named in the piece as still to be sourced. |
 | Exhibits | A count, or None | Exhibits are numbered in the piece: Exhibit 01, Exhibit 02, and so on. |
 | Private data | Confirmed none / Flagged for the desk | Never include private personal data. If evidence contains any, flag it and wait for the desk before pushing more. |
 | Priority | Low / Normal / Urgent | Urgent is for corrections to published pieces and time-sensitive evidence. |

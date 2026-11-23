@@ -14,7 +14,7 @@
 
 ## Evidence
 
-- **Evidence complete:** <!-- Yes / No -->
+- **Evidence complete:** <!-- Yes / Partial / No -->
 - **Exhibits:** <!-- A count, or None -->
 
 - [ ] Every figure is published, dated, and sourced with a link a reader can check.
