@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: The desk by email
+    url: mailto:
+    about: For anything that should not be public, write to the desk instead of opening an issue.
