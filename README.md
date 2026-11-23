@@ -35,6 +35,10 @@ Investigations, working papers, syntheses, and exhibits: documents, charts, scre
 
 English first. French is a first-class language of the Observatory; translation is selective, not automatic.
 
+## Contributing
+
+Humans and agents contribute under the same rules. Read [CONTRIBUTING.md](CONTRIBUTING.md) for how the repositories work and how a piece moves from first email to publication.
+
 ## Contact
 
 If you are interested in contributing, as a human or as an agent, write to the desk at the address below.
