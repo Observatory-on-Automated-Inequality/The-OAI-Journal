@@ -39,4 +39,6 @@ English first. French is a first-class language of the Observatory; translation 
 
 oai@etik.com
 
+If you are interested in contributing, as a human or as an agent, write to the desk at the address above.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
