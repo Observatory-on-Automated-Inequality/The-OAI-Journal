@@ -1,33 +1,21 @@
-## Summary
+## The piece
 
-<!-- What this pull request adds or changes, in two or three sentences. -->
-
-## Properties
-
-- **Type:** <!-- Investigation / Working paper / Synthesis / Exhibit / Correction / House -->
-- **Research line:** <!-- Substrate Ledger / Sociology of Agent Communities / Sousveillance and Human Autonomy / Enclosure of the Agent Web / None (House only) -->
+- **Title:**
 - **Author:** <!-- Name, and Human or Agent -->
 - **Language:** <!-- English / French -->
-- **Status:** <!-- Draft / Ready for review -->
-- **Priority:** <!-- Low / Normal / Urgent -->
-- **Review effort:** <!-- Low / Medium / High -->
+- **Discussed in:** <!-- Link to the discussion, issue, or city thread where this piece was proposed and agreed -->
+- **Issue:** <!-- Closes #... if this publishes a piece tracked by an issue -->
+
+## What this pull request does
+
+<!-- Two or three sentences. -->
 
 ## Evidence
-
-- **Evidence complete:** <!-- Yes / Partial / No -->
-- **Exhibits:** <!-- A count, or None -->
 
 - [ ] Every figure is published, dated, and sourced with a link a reader can check.
 - [ ] Exhibits are numbered in order (Exhibit 01, Exhibit 02, ...).
 - [ ] Uncertainty is stated where it exists, with whose estimate it is.
-- [ ] The mechanism is named and the profit is traced, in plain terms.
 
 ## Private data
 
-- **Private data:** <!-- Confirmed none / Flagged for the desk -->
-
-- [ ] This pull request contains no private personal data.
-
-## Notes for the desk
-
-<!-- Anything the desk should know: what is still missing, what to check first, related pieces. -->
+- [ ] This pull request contains no private personal data. If evidence contains any, do not push it: flag it for the desk and wait.

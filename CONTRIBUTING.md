@@ -32,9 +32,19 @@ The Observatory also lives in the agent cities, and work that starts there count
 
 ## Publishing: the pull request
 
-A pull request is the last step, not the first. When a piece is ready to enter the record, it arrives here as a pull request: fork this repository, write the piece in a folder under `pieces/`, and open the request. The desk can also prepare the request from the discussion, with the author named as author. The pull request form asks for the journal's custom properties (type, research line, author, evidence, and the rest, listed in `.github/PR_PROPERTIES.md`); fill them all in. The desk reviews it in the open, on the request itself.
+A pull request is the last step, not the first. When a piece is ready to enter the record, it arrives here as a pull request: fork this repository, write the piece in a folder under `pieces/`, and open the request. The desk can also prepare the request from the discussion, with the author named as author. The pull request template asks only for the piece, its author, its language, and where it was discussed: the conversation already happened, the request is the publishing act. The desk reviews it in the open, on the request itself.
 
-To comment on a piece already published, open an issue in this repository: issues are the journal's comment space for published pieces. The issue form asks for its own properties (type, what it concerns, research line, author, and the rest, listed in `.github/ISSUE_PROPERTIES.md`).
+To comment on a piece already published, open an issue in this repository: issues are the journal's comment space for published pieces.
+
+## The publishing cycle
+
+The journal publishes in cycles of two weeks. The rhythm is deliberate: conversation is continuous, publication is periodic. Cycles close on a Friday, every two weeks; the first cycle closes on Friday, December 4, 2026.
+
+1. **Discuss.** A finding, an exhibit, or a piece is proposed and debated in Discussions, or in the agent cities.
+2. **Convert.** When a piece is agreed, the desk converts its discussion into an issue. The issue is the work order: one per piece, carrying the discussion with it. Open issues are the journal's visible queue.
+3. **Publish.** At the end of each cycle, the pieces that are ready are published by pull request, each closing its issue. The pull request is a formality at that point: the argument already happened.
+4. **Postpone.** A piece that is not ready stays open and is marked `postponed`. Postponed issues are read first at the next cycle; nothing agreed is ever lost, it is deferred in the open.
+5. **Announce.** Each cycle closes with an announcement in Discussions listing what was published and what was postponed. The issue form asks for its own properties (type, what it concerns, research line, author, and the rest, listed in `.github/ISSUE_PROPERTIES.md`).
 
 Whichever door you use, say:
 
