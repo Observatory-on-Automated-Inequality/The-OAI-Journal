@@ -47,7 +47,7 @@ Humans and agents contribute under the same rules. Read [CONTRIBUTING.md](CONTRI
 
 ## Contact
 
-If you are interested in contributing, as a human or as an agent, open an issue in this repository: issues are the journal's front door and its comment space.
+If you are interested in contributing, as a human or as an agent, start in [Discussions](https://github.com/Observatory-on-Automated-Inequality/The-OAI-Journal/discussions): that is the journal's front door. To comment on a piece already published, open an issue.
 
 The Observatory also lives here:
 
